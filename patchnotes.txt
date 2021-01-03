@@ -1,0 +1,229 @@
+We've made it through the storm and landed on the last patch of the year! Get your reading glasses and Santa hats on, because we've got a substantial list of changes from smoothing out the new landscape. And keep them on, because we’ll also be following up on balance outliers with an end-of-year “10.25b” mid-patch update to tie up all the loose ends before we ring in the holidays. Past champs and items, we're rolling out updates to Ranked initial placements and decay, bringing back Nexus Blitz with its own set of improvements, and riding 
+
+Rell in, iron horse and all. And that's it! So from all of us: stay safe, stay cozy, and we'll see you in the new year. It's going to be a good one. Take this portal if you're looking for TFT's patch notes ! Tricia "mom cat" Tan Hanna "shio shoujo" Woo Mid-Patch Updates 12/15/2020 "10.25b" Balance Changes and Bugfixes As promised, we're doing one last round of balance changes to ensure the game is in a good state before the winter break. Again, happy holidays and we'll see you back in January! 
+
+Akali 
+
+Akali was a big winner in preseason in that her win rate climbed considerably from awful to okay for most players. We've been hoping that we wouldn't need to nerf her until pro play started, but unfortunately, she's breaking ban rate limits in Elite play. Decreasing her prolonged combat damage as a result. PASSIVE - ASSASSIN'S MARK MOVE SPEED 40/50/60/70% -> 30/40/50/60% PASSIVE - ASSASSIN'S MARK DAMAGE 39-180 (+60% bonus AD) (+50% AP) -> 29-170 (+60% bonus AD) (+40% AP) 
+
+Anivia E - FROSTBITE BASE DAMAGE 60/90/120/150/180 -> 50/80/110/140/170 E - FROSTBITE COST 40 mana -> 50 mana 
+
+Galio W - SHIELD OF DURAND COOLDOWN 16/15/14/13/12 seconds -> 18/17.5/17/16.5/16 seconds 
+
+Gangplank BASE AD GROWTH 3 -> 4 
+
+Kayn BASE ARMOR 35 -> 38 Q - REAPING SLASH BASE DAMAGE 65/85/105/125/145 -> 75/95/115/135/155 
+
+Malphite BASE MAGIC RESIST 32.1 -> 28 Miss Fortune W - STRUT BUGFIX Fixed a bug where Strut's attack speed would not increase with rank GUN GODDESS MISS FORTUNE BUGFIX Gun Goddess Miss Fortune's guns and Q/E/R VFX are no longer missing before a form is selected 
+
+Olaf Q - UNDERTOW SLOW 29/33/37/41/45% -> 25/30/35/40/45% W - VICIOUS STRIKES ATTACK SPEED 55/65/75/85/95% -> 50/60/70/80/90% 
+
+Rell E - ATTRACT AND REPEL QOL CHANGE Rell's E would incorrectly prioritize targeting Rell, rather than snapping, when used with other abilities. We're changing it so she can't target herself with E within three seconds of taking damage from a champion, casting another ability, or basic attacking another champion to avoid this problem. The Collector BUGFIX Fixed a bug that caused The Collector to pierce through champion death passives Ironspike Whip SLOT SWAP BUGFIX Fixed a bug where Ironspike Whip's (and the items it builds into) cooldown would reduce to 0 when moving slots in the item inventory Sunfire Aegis While relatively balanced, Sunfire Aegis continues to dominate tank Mythic choices. We're giving the other items more of a chance to be explored. IMMOLATE RAMPING DAMAGE 12% per second up to 72% -> 10% per second, up to 60% 12/11/2020 Nexus Blitz Balance Changes 10.25 Buffs 
+
+Ashe -3% damage dealt -> Normal 
+
+Azir +5% damage dealt 
+
+Caitlyn -5% damage taken 
+
+Gangplank +5% damage dealt, -5% damage taken 
+
+Gragas -5% damage taken 
+
+Karma +5% damage dealt, -5% damage taken 
+
+Nidalee +5% damage dealt & -5% damage taken -> +8% damage dealt & -8% damage taken 10.25 Nerfs 
+
+Anivia -5% damage dealt, +5% damage taken 
+
+Brand -5% damage dealt, +5% damage taken -> -8% damage dealt, +8% damage taken 
+
+Seraphine -5% damage dealt, +5% damage taken 
+
+Yuumi -5% damage dealt 12/8/2020 ARAM Balance Changes 10.25 Buffs DR. MUNDO +5% damage taken -> Normal TEEMO -15% damage dealt & +15% damage taken -> -15% damage dealt & +10% damage taken YASUO -5% damage taken -> +5% damage dealt & -5% damage taken 10.25 Nerfs 
+
+Brand -5% damage dealt & +5% damage taken -> -5% damage dealt & +10% damage taken 
+
+Ezreal -3% damage dealt -> -5% damage dealt & +5% damage taken Miss Fortune -8% damage dealt -> -8% damage dealt & +5% damage taken 
+
+Seraphine -10% damage dealt, +10% damage taken, & -10% healing -> -15% damage dealt, +15% damage taken, & -10% healing 
+
+Swain -5% damage dealt & +6% damage taken -> -5% damage dealt & +10% damage taken ARAM Bugfixes REK'SAI Fixed an issue where Rek’Sai was taking 20% less damage rather than 15% less damage as intended Patch Highlights Battle Queen Katarina, Battle Queen Diana, Battle Queen Qiyana, Battle Queen Janna, Battle Queen Rell, Elderwood Xayah, Elderwood Rakan, Elderwood Ivern, Elderwood Azir, Elderwood Ornn, and Battle Queen 
+
+Diana Prestige Edition will be available on December 10th, 2020. Champions new 
+
+Rell The Iron Maiden Lead the charge with 
+
+Rell in patch 10.25! 
+
+Rell Abilities Rundown 
+
+Rell Champion Insights 
+
+Rell Champion Bio 
+
+Amumu Base mana growth decreased. E base damage decreased later. R stun duration decreased early and now scales. Amumu's win rate was exceeding acceptable bands, to the point where we had to micropatch him in on 10.24. We're reiterating the changes here in case you missed it: With the synergy between his passive, Despair's uptime, Tantrum's resist scaling, Sunfire Aegis' unique and resistances, Demonic Embrace's burn, and Abyssal Mask's damage amplification on his R, Mummy seems to be the clear winner of preseason. Add in his buff in 10.23 when we made his ult a stun and he's been s weeping the competition off their feet. This should knock him down a peg. Base Stats MANA GROWTH 60 -> 40 (revert of 10.23 buff) E - Tantrum BASE DAMAGE 75/100/125/150/175 -> 75/95/115/135/155 R - Curse of the Sad Mummy STUN DURATION 2 seconds -> 1.5/1.75/2 seconds 
+
+Anivia Basic attack animation sped up. Q cooldown, missile speed, and detonation damage increased; passthrough damage and cost decreased; now Chills enemies it passes through. E cost flattened and damage increased. R cooldown now scales; base damage decreased; cost decreased. Anivia's been feeling out of date for a while. Though technically balanced, we thought she could use an update to her playstyle. Since she also lost a bunch of power from preseason changes, we're using this as an opportunity to fluff and buff her feathers. To make room for these modernization improvements, we're also cutting some base damage from her R so that she doesn't fly too close to the sun. Base Stats ATTACK DELAY CAST OFFSET -0.008 -> -0.1 (in other words, her basic attack animation has been sped up) BASIC ATTACK MISSILE SPEED 1500 -> 1600 Q - Flash Frost MISSILE SPEED 800 -> 950 new WELCOME TO CHILLI'S Flash Frost now Chills enemies it passes through updated BIRDSEYE Flash Frost's detonation now occurs at the correct location rather than slightly behind COOLDOWN 10/9.5/9/8.5/8 seconds -> 11/10/9/8/7 seconds PASSTHROUGH DAMAGE 60/85/110/135/160 (+45% AP) -> 50/70/90/110/130 (+25% AP) DETONATION DAMAGE 60/85/110/135/160 (+45% AP) -> 70/105/140/175/210 (+50% AP) COST 80/90/100/110/120 mana -> 80/85/90/95/100 mana E - Frostbite COST 50/60/70/80/90 mana -> 40 mana DAMAGE 50/75/100/125/150 (+50% AP) -> 60/90/120/150/180 (+60% AP) R - Glacial Storm COOLDOWN 6 seconds -> 4/2.5/1 seconds BASE DAMAGE 40/60/80 -> 30/45/60 COST 75 (+40/50/60 per second) mana -> 60 (+35/45/55 per second) mana Annie E bonus movement speed decreased. 
+
+Annie has seen strong success with her pick-and-burst potential. As the new season also brought a trove of Annie-friendly toys, we're toning back some of the movement that helped her run it down. E - Molten Shield BONUS MOVEMENT SPEED 30%-60% (level 1-18) -> 20%-50% (level 1-18) 
+
+Ekko Passive damage ratio to monsters increased and cap removed. Ekko's doing well in mid but is really struggling in the jungle, so we're giving him back our 10.3 nerf and a little extra. Passive - Z-Drive Resonance DAMAGE RATIO TO MONSTERS 150% (caps at 600) -> 250% (no cap) 
+
+Fizz Base mana growth decreased. 
+
+Fizz has been faring swimmingly despite his mana loss in 10.24. In combination with the overall net positive from Mythics, he's hopped over the line. Turning the tides by reverting our change in 10.23. Base Stats MANA GROWTH 57 -> 37 
+
+Gragas Passive healing increased. W cooldown decreased. 
+
+Gragas was hit hard, especially in a post-preseason jungle with less health to guzzle. Helping him clear camps faster to soften the blow. Passive - Happy Hour HEALING 6% of max health -> 8% of max health W - Drunken Rage COOLDOWN 6 seconds -> 5 seconds 
+
+Irelia Base AD increased. Q cooldown decreased. 
+
+Irelia hasn't really found a home with the Fighter Mythics yet, so we're specifically tackling the areas that will help her synergize better with existing Mythics and also handing her back some cooldown for her immediate Sheen purchase. Base Stats ATTACK DAMAGE 63 -> 65 Q - Bladesurge COOLDOWN 12/11/10/9/8 seconds -> 11/10/9/8/7 seconds 
+
+Ivern Q cooldown decreased. E cooldown decreased; shield increased. R basic attack speed increased. Ivern's fallen below par and deserves quite a bit of love, especially after the shift to ability haste. To help root him as a stronger jungle pick, we're giving back some of the extra shielding power he lost from Athene's, and opening up access to more of his abilities to help both him and his allies survive fights. And we can't forget about Daisy, can we? Q - Rootcaller COOLDOWN 14/13/12/11/10 seconds -> 12/11/10/9/8 seconds E - Triggerseed COOLDOWN 12/11/10/9/8 seconds -> 11/10/9/8/7 seconds SHIELD RATIO 80% AP -> 90% AP R - Daisy! BASE ATTACK SPEED 0.623 -> 0.7 
+
+Jhin Q minimum damage ratio decreased. Even with some of his lethality options catching some nerfs (see below), Jhin's still cashing out hard this preseason with pure crit builds. Giving him a direct trim. Q - Dancing Grenade MINIMUM DAMAGE RATIO 45/52.5/60/67.5/75% AD -> 35/42.5/50/57.5/65% AD 
+
+Karthus Q cost decreased later; damage ratio increased. 
+
+Karthus isn't performing well in any of his roles, but seems to do a lot better when getting mana out of his Mythic. We're giving him a small boost, but also expect item optimizations will improve his strength. Q - Lay Waste COST 20/26/32/38/44 mana -> 20/25/30/35/40 mana DAMAGE RATIO 30% AP -> 35% AP 
+
+Kayle Base magic resist decreased. E passive damage ratio decreased. Prior to the item rework, we buffed 
+
+Kayle in preparation so that she'd have better choices in the new system. Those items ended up synergizing really well on her and have resulted in an overperformance in the mid lane. We overall like the item choices she has so we're not fully reverting the buff we did in 10.23, but are instead targeting other problem areas (her resilience in the midlane and the on-hit damage she gets when combined with Nashor's Tooth). Base Stats MAGIC RESIST 34 -> 30 E - Starfire Spellblade PASSIVE DAMAGE RATIO 25% AP -> 20% AP 
+
+Kayn Base armor decreased. Q base damage decreased; cooldown increased. 
+
+Kayn is one of the few junglers able to fully utilize the new jungle item due to his penchant for strong basic attacking and AoE damage, increasing his overall early clear speed and power. Bringing some of his early clears back in line. Base Stats ARMOR 38 -> 35 Q - Reaping Slash BASE DAMAGE 75/95/115/135/155 -> 65/85/105/125/145 COOLDOWN 6/5.5/5/4.5/4 seconds -> 7/6.5/6/5.5/5 seconds Lee Sin Base armor increased. W cooldown decreased. E base damage increased. Monk with no sight and no Machete means monk gets more muscle. Base Stats ARMOR 33 -> 36 W - Safeguard COOLDOWN 14 seconds -> 12 seconds E - Tempest BASE DAMAGE 80/120/160/200/240 -> 100/140/180/220/260 
+
+Lulu Q base damage decreased; deals bonus damage to targets hit with both bolts; removed passthrough falloff damage; deals less damage to minions. Giving 
+
+Lulu a higher success rate when hitting both Glitterlance bolts and clearing up confusion around whether her second bolt does any damage. Well, now it does! Q - Glitterlance BASE DAMAGE 80/115/150/185/220 -> 70/105/140/175/210 new I RECOMMEND BOLTS Hitting a target with both bolts now deals 25% bonus damage removed JUST A BOLT Bolts no longer have passthrough falloff damage new NOT JUST MINIONS Bolts now deal 70% damage to minions 
+
+Mordekaiser Q isolated enemy damage increased. Morde became a little worse for wear after losing his Liandry's + Rylai's combo, but was at the very least propped up by Riftmaker's in 10.23. With 
+
+Riftmaker nerfed in 10.24, we are looking to give some power back to Morde himself so he's not so reliant on a specific item or item combo. Q - Obliterate ISOLATED ENEMY DAMAGE INCREASE 20/25/30/35/% -> 30/35/40/45/50% 
+
+Morgana W DoT decreased later. Morgana's DoT is making her too strong in her solo lane, especially as her opponents don't have the help of another body like in bot. W - Tormented Shadow DAMAGE PER SECOND 12/24/36/48/60 (based on enemy champion's missing health) -> 12/22/32/42/52 (based on enemy champion's missing health) 
+
+Nasus Q cooldown decreased. Due to the changes to cooldown reduction, 
+
+Nasus is finding it difficult to ramp up the frequency of his strikes. Directly reducing its base cooldown to let it scale better into the late game. Q - Siphoning Strike COOLDOWN 8/7/6/5/4 seconds -> 7.5/6.5/5.5/4.5/3.5 seconds 
+
+Nidalee Q cost decreased later; damage increased later. E cost decreased. Nidalee's balance state used to be extremely tied to her synergy with Runic Echoes, which was removed in the item rework. She is also running into pretty severe mana issues, due to the fact that her costs were tuned around the item. With all that in mind, we're shifting some of her power from strong mid-game farming into more champion-focused damage, as the latter is friendlier to all levels of players. Q - Javelin Toss COST 50/60/70/80/90 mana -> 50/55/60/65/70 mana MINIMUM DAMAGE 70/85/100/115/130 (+50% AP) -> 70/90/110/130/150 (+50% AP) MAXIMUM DAMAGE 210/255/300/345/390 (+150% AP) -> 210/270/330/390/450 (+150% AP) E - Primal Surge COST 60/75/90/105/120 mana -> 50/60/70/80/90 mana updated 
+
+Pantheon Realigning 
+
+Pantheon to better support the various roles he's been taking on the Rift. Pantheon's last overhaul was aimed at bringing new life to an old top lane mainstay. With time and professional play, his rework shifted gears to mid, and then to support. While we love seeing players innovate and journey with the champion, we can't ignore the growing sentiment of folks missing the old champion they love, and we think it's worthwhile to bring 
+
+Pantheon back to his original home. With that being said, the intent of these changes isn't to destroy support Pantheon, but rather to adjust that role's power, while also giving a boost to the tools that'll finally let old-school 
+
+Pantheon fans successfully play him in top, and even mid lane, as promised years ago. TL;DR, we're shifting more power into a bruiser-y playstyle by giving him a higher uptime on his Q and equipping him with more selfish outputs like armor penetration at the cost of utility (i.e. strong invulnerability), slows, and most importantly, a massive movement speed boost for when he crashes onto the scene. Base Stats MOVEMENT SPEED 355 -> 345 Passive - Mortal Will new CALL ME BACK 
+
+Pantheon now gains 5 stacks when he recalls. Q - Comet Spear EARLY RELEASE COOLDOWN REFUND 50% -> 60% EARLY RELEASE BUGFIX Fixed a bug where Pantheon's Q would not cast and still go on cooldown when he was hit with a CC COST 40 mana -> 30 mana removed EMPOWERED SLOW Comet Spear no longer slows W - Shield Vault BASE DAMAGE 60/80/100/120/140 -> 60/100/140/180/220 BUGFIX When 
+
+Pantheon hits an enemy with an Mortal Will-empowered W and uses another ability immediately following, the next basic attack will now properly be empowered E - Aegis Assault removed INVULNERABLE E no longer blocks turret shots REDIRECTION SLOW 50% (based on movement direction) -> 25% (based on movement direction) MORTAL WILL EMPOWERMENT Consuming Mortal Will stacks extends the duration of Aegis Assault -> When 
+
+Pantheon slams his shield, he consumes Mortal Will stacks to gain 60% movement speed for 1.5 seconds R - Grand Starfall new PIERCE THE HEAVENS 
+
+Pantheon gains 10/20/30% armor penetration new X MARKS THE SLOW The spear that lands before 
+
+Pantheon now slows for 50% and applies a spear's worth of damage (unempowered) in a small area around it new ALLY VFX Grand Starfall's ground indicator now appears for both 
+
+Pantheon and allies at start of channel 
+
+Samira Passive updated to extend Knock Up duration on already knocked up enemies. Q and R life steal effectiveness decreased. Q crit bugfix. Samira's win rate isn't over the line, but her ban rate certainly is, which indicates an issue with game health. Cutting a frustrating knock up mechanic and the hard synergy she gained with new items. Passive - Daredevil Impulse updated KNOCKING AROUND THE CHRISTMAS TREE Instead of knocking up Immobilized enemies, 
+
+Samira now keeps already knocked up enemies in the air for at least 0.5 seconds. 
+
+Samira can still dash into range for a basic attack against Immobilized enemies. Q - Flair CRIT LIFE STEAL EFFECTIVENESS 100% -> 66.6% BUGFIX Critically hitting an enemy with Q now deals the proper bonus damage R - Inferno Trigger CRIT LIFE STEAL EFFECTIVENESS 100% -> 66.6% 
+
+Seraphine Base health growth increased. W self-shield increased. 
+
+Seraphine is currently feeling a lot of weakness against more aggressive opponents (i.e. Zed, Fizz, Akali) in the midlane. So much so that it's driving players away from playing her there. We're giving her a little more durability so that she can survive longer and more successfully in 1v1s. Base Stats HEALTH GROWTH 80 -> 90 W - Surround Sound new BEAT OF MY OWN DRUM Seraphine's personal shield is now increased by 50% (shield value is now 90-180 (based on level) (+45% AP)) 
+
+Shyvana Adjusted Shyvana's Passive on non-SR game modes like ARAM and Nexus Blitz. As many 
+
+Shyvana players know, it's extremely frustrating to play 
+
+Shyvana on any other game modes besides those on Summoner's Rift because Passive only gives her 5 bonus armor and magic resistance On other maps she has no way to fully gain from her passive! Well, we're changing that. Passive - Fury of the Dragonborn ARAM (HOWLING ABYSS) 
+
+Shyvana begins the game with 5 bonus armor and magic resistance. She also gains permanent stacking armor and magic resistance whenever she or her allies kill Cannon Minions or Super Minions. Additionally, 
+
+Shyvana gains 1 armor, 1 magic resistance, and Dragon Fury regeneration (0.05 per stack) whenever she is healed by a Health Relic AOE on the enemy side of the map. NEXUS BLITZ (TEMPLE OF LILY AND LOTUS) 
+
+Shyvana gains permanent stacking armor and magic resistance whenever she or her allies kill nearby epic monsters, jungle monsters, and Rift Scuttlers. Additionally, 
+
+Shyvana gains permanent Dragon Fury regeneration (0.05 per stack). 
+
+Taliyah Subsequent Q hits no longer deal reduced damage to monsters. Helping Jungle 
+
+Taliyah keep up with other junglers while ensuring that her mid performance isn't overly affected. Q - Threaded Volley removed THREADING ON THIN ICE Subsequent hits no longer have reduced damage against monsters 
+
+Twitch Q attack speed increased. W slow increased. R bonus damage increased. Both AP and AD 
+
+Twitch are significantly underperforming. Our goals are for both to be viable ways to play him, but to stay true to his original gameplay design, we don't necessarily want his AP gameplay to be stronger than AD. For now, we're going to be buffing him in both styles of play, but it is possible that we will need further tuning adjustments as players get used to AP Twitch. Q - Ambush ATTACK SPEED 30/35/40/45/50% -> 40/45/50/55/60% W - Venom Cask SLOW 25/30/35/40/45% -> 30/35/40/45/50% R - Spray and Pray BONUS ATTACK DAMAGE 20/30/40 -> 25/40/55 
+
+Yasuo Base AS growth increased. Increasing Yasuo's attack speed scaling because his new itemizations don't always give him the ramp up he needs for scaling DPS. Base Stats ATTACK SPEED GROWTH 2.5% -> 3.5% 
+
+Yone Base AS growth increased. Bros for life. 
+
+Yone has the same issue as 
+
+Yasuo and is being tuned accordingly. Base Stats ATTACK SPEED GROWTH 2.5% -> 3.5% 
+
+Rengar W healing from monsters increased; now deals bonus damage to monsters. Big cat and the following champs (forgive us for the non-alphabetized order here) came out of the preseason changes sorely missing the old Tiamat, so we're making adjustments for them. 
+
+Rengar in particular took a massive clear speed hit, so we're bringing that back up. W - Battle Roar HEALING FROM MONSTERS 75% of the damage he's taken from monsters -> 100% of the damage he's taken from monsters new MONSTER MASH W now deals 65-130 (levels 1-18) bonus damage to monsters 
+
+Warwick Passive bonus damage increased. Tooltip updated to reflect accuracy. The loss of both Tiamat and Machete took its toll on Warwick's clear speed, and his builds are now looking very tank-heavy. Looking to buff that back up and add some more incentive for damage items. Passive - Eternal Hunger BONUS DAMAGE 10-44 (level 1-18) -> 12-46 (levels 1-18) (+15% bonus AD) (+10% AP) TOOLTIP BUGFIX Updated tooltip from incorrectly stating that Eternal Hunger's bonus damage is 8-42 instead of 10-44, that healing is equal to damage attempted instead of damage dealt, and that below 25% health the healing is increased 300% instead of 250% 
+
+Talon W return damage increased later. Talon's ability to roam is contingent on his ability to clear waves. And his ability to clear waves was too reliant on Tiamat. While his lethality build suffered a lot, he's starting to move out of assassin items into 
+
+Goredrinker and Ravenous, so we're only giving him a small buff for now. W - Rake RETURN DAMAGE 45/65/85/105/125 -> 45/70/95/120/145 
+
+Wukong E now deals more damage to monsters. Niche for sure, but jungle 
+
+Wukong was also hit really hard, so we're adjusting accordingly. E - Nimbus Strike new THAT'S...BANANAS Nimbus Strike now deals 50% more damage to monsters Items General Grouping some individual item changes since most of our item changes this patch can be easily categorized by class. A couple of notes on some specific items though: 
+
+Muramana has started to see play as the optimal second item for several mage champions. We're changing its effect to physical damage to incentivize its target audience to pick it up (AD casters, where ya at), while laying the groundwork for potential buffs that won't encourage more mage poaching. And Seeker's Armguard was too efficient for its cost, so we're nudging down its power. The Collector DEATH AND TAXES EXECUTES All enemy targets except epic monsters and turrets -> Enemy champions 
+
+Muramana SHOCK DAMAGE PROC Procs on all abilities and basic attacks -> Procs on abilities that deal physical damage and basic attacks PARTICLE ADDITION Readded the star particle that would appear when 
+
+Manamune transforms into 
+
+Muramana Guinsoo's Rageblade SEETHING STRIKE CONVERSION Now converts your crit chance to on-hit damage, leaving you with 0% crit chance Zeke's Convergence HEALTH 300 -> 250 ARMOR 30 -> 25 CONVERGENCE MARK DURATION 4 seconds -> 8 seconds CONVERGENCE BONUS DAMAGE 25-50 -> 30-70 Seeker's Armguard ABILITY POWER 30 -> 20 Jungle Starter Items Certain junglers who get high value out of fast attacks and AoE have been significantly overperforming since preseason began, so we're paring down the power in clear speeds that were introduced in the new system. Hailblade SEAR ON-HIT Basic attacks no longer grant one tick of damage Emberknife SEAR ON-HIT Basic attacks no longer grant one tick of damage Support Items Some cleanup to support items to address some concerns: Supports don't get many items in average games Some item build paths were too high cost Some items are weaker/stronger than others The use of Imperial Mandate in solo lanes-it should still be a viable build, but shouldn't be optimal Bandleglass Mirror COST 365 gold -> 265 gold Chemtech Putrifier COST 450 gold -> 550 gold (with the above cost change, total cost is unchanged) Ardent Censer BUILD PATH Forbidden Idol + Blasting Wand + 650 gold -> Forbidden Idol + Amplifying Tome + Amplifying Tome + 630 gold Staff of Flowing Water BUILD PATH Forbidden Idol + Blasting Wand + 650 gold -> Forbidden Idol + Amplifying Tome + Amplifying Tome + 630 gold Imperial Mandate TOTAL COST 2700 gold -> 2500 gold DAMAGE 60-100 -> 36-60 ALLY DAMAGE 60-100 -> 90-150 Moonstone Renewer TOTAL COST 2700 gold -> 2500 gold updated STARLIT GRACE VFX Improved particle visuals when in combat STARLIT GRACE HEAL 60-90 (based on ally's level) -> 70-100 (based on ally's level) STARLIT GRACE HEAL MULTIPLIER IN COMBAT 25% per second (max 100%) -> 12.5% per second (max 50%) Locket of the Iron Solari TOTAL COST 2700 gold -> 2500 gold DEVOTION SHIELD 250-420 -> 230-385 Shurelya's Battlesong TOTAL COST 2700 gold -> 2500 gold INSPIRE BONUS DAMAGE 40-60 (based on ally's level) -> 35-55 (based on ally's level) Crit Strike Items Many of our marksman champions are still weak, especially those that rely on their basic attacks to deal damage. To help with this issue, we're buffing a couple early build Legendaries so that marksman champions can scale up smoothly through midgame to eventually spike hard with Infinity Edge. 
+
+Galeforce ATTACK DAMAGE 55 -> 60 CLOUDBURST COOLDOWN 90 seconds -> 60 seconds Typhoon ATTACK DAMAGE 75 -> 80 Essence Reaver ATTACK DAMAGE 50 -> 55 Zeal TOTAL COST 1200 gold -> 1050 gold Rapid Firecannon TOTAL COST 2700 gold -> 2500 gold Phantom Dancer TOTAL COST 2700 gold -> 2500 gold Mercurial Scimitar TOTAL COST 2900 gold -> 3000 gold ATTACK DAMAGE 30 -> 40 Mortal Reminder TOTAL COST 2700 gold -> 2500 gold Lord Dominik's Regards ATTACK DAMAGE 30 -> 35 Infinity Edge removed CRIT SCALING Infinity Edge no longer grants critical strike damage scaling with critical strike chance (max 40% at 100% crit chance) new THIS IS CRITICAL If you have at least 60% critical strike chance, Infinity Edge now grants 35% Critical Strike Damage. Mana Mythics Responding to feedback about champions feeling sluggish with low haste by making a few changes to some of the AP mana Mythics to improve baseline item feels. Liandry's will still be the ultimate haste option, providing up to 40 haste late game. Ornn's items will also reflect equivalent adjustments. Luden's Tempest ABILITY HASTE 10 -> 20 MAGIC PENETRATION 10 -> 6 
+
+Everfrost ABILITY HASTE 10 -> 20 Lethality Mythics 
+
+Eclipse and Duskblade are both overperforming on ranged champions. Duskblade of Draktharr new UP CLOSE AND SLOWED Nightstalker's on-hit slow is now only applied with melee basic attacks (just like before 10.23) updated NIGHTSTALKER VFX Improved visibility when champion becomes stealthed 
+
+Eclipse EVER RISING MOON SHIELD (RANGED) 100 (+30% bonus AD) -> 75 (+20% bonus AD) Tank Items Some more tank systemic nerfs. Slowing down Bami's power spike, especially for junglers, and pushing Mythic item strengths further apart from each other. Sunfire may be a standout in popularity, but all of them are reaching higher power levels at the moment than desired. Bami's Cinder TOTAL COST 1000 gold -> 1100 gold Sunfire Aegis HEALTH 450 -> 350 Frostfire Gauntlet SNOWBIND FROST FIELD RANGE 275 -> 250 MYTHIC INCREASED SIZE 7.5% -> 6% (Reminder that Immolate and Snowbind's effect ranges also scale with your champion's size) Turbo Chemtank SUPERCHARGED SLOW DURATION 2 seconds -> 1.5 seconds Item Shop Updates We've been hard at work iterating on the shop and have some exciting features to share with you this time. Stay tuned - we aren't done yet and there will be more coming soon. new SMARTER RECOMMENDATIONS The data is flowing in nicely and during 10.25 we'll be enhancing the recommendation system with the latest and greatest builds from around the world new QUICKBUY PINS You can now pin open any Quickbuy Panel by clicking the button that appears in the top-left of the panel when it is opened. In a future update, the shop will remember the pins you set. new SHOP SCALING If the shop was either too smol or thicc for your liking, you can now change this from interface settings in the options menu LOCKED ITEMS In more instances, items you cannot purchase for reasons other than you being broke will have a lock displayed on them. WE RECOMMEND THIS TAB The default tab of the shop has been changed from All Items to Recommended. EXTENDED STATS Extended stats in the main UI will now properly show while the in-game shop is open LANGUAGE SEARCH Items can be searched for in different languages In-Game Chat Updates We're continuing to iterate on the new in-game chat. This time we're focused on eliminating those pesky early line breaks. Font size decreased Chat widened Fixed some issues with the scrollbar not mapping correctly to the window Fixed the 1px misalignment between chat and input that made the game unplayable Nexus Blitz Returns Nexus Blitz is back in 10.25, this time with a couple of changes we've made from feedback we received from last run, as well as some bugfixes: Jungle Guardian now deals less damage, but CCs more often. It also now has a laser that shows who it's targeting. All Nexus Blitz-only items are removed, except The Golden Spatula. Nexus Blitz items match what you're familiar with on Summoner's Rift, except without gold generation items or warding items. Frogs! Foxes! Environment art updates and features added throughout the map. Scuttle's home in the bottom of the map has been updated to provide more opportunity for strategic vision play Entrances into the bases have been widened slightly Mentioned already in her section above, but 
+
+Shyvana has a new passive! The Catapult of Champions can no longer be displaced from its location when crashed into by the Battle Sled Champions participating in URF Deathmatch do not permanently lose access to abilities after the event is over (i.e. Lulu's E - Help, Pix! ) Jungle monsters can no longer be moved and trapped behind the Catapult of Champions through certain champions' abilities (i.e. Syndra's W - Force of Will , Blitzcrank's Q - Rocket Grab Champions entering a zombie state (i.e. KogMaw's Passive - Ichathian Surprise ) mid-Catapult-flight will still land at their intended location Certain champion abilities (i.e. Tahm Kench's W - Devour ) can no longer temporarily grant death immunity to Loot Goblins If a champion enters the Catapult while mid-air through their abilities (i.e. Nidalee's W - Pounce , Ziggs' W - Satchel Charge , etc.), they will now properly gain the Catapult effects when they land as if they entered the Catapult normally Yone's E - Soul Unbound properly detonates and deals true damage against DPS Check Target Dummy and Loot Goblins Kalista's R - Fate's Call can no longer be used on allies in stasis during Prize Fight Ranked Update Continuing our work on Ranked to ensure that the start of season is a less frustrating experience for all players. For Diamond specifically, we're removing the complexity in the system since the tier used to have an entirely different version of decay. This new version is also more forgiving for Diamond players than the old version, in addition to being more relaxed than the rules for Master+. Initial Placement Configuration: The Ranked reset at the start of the season will be smaller this year to get players back to their expected rank faster. To compensate, LP gains and losses have been made slightly smaller. Unified Ranked Decay: Diamond now uses the same banked-game decay system as Master+, though with more relaxed tuning. Master, Grandmaster, Challenger Each game played banks 1 day of activity, up to 10 After 10 days of inactivity, you'll begin consuming banked days Once all banked days have been consumed, you lose 250 LP each day until you fall out of Master Diamond Each game played banks 7 days of activity, up to 28 After 28 days of activity, you'll begin consuming banked days (this initial grace period is skipped if you decayed into Diamond from Master+) Once all banked days have been consumed, you lose 50 LP each day until you fall out of Diamond 2021 Refund Token Grant As outlined in our Content Refund FAQ , players with less than three refund tokens in 2020 will receive their 2021 refund token granted in 10.25! As a reminder, you only get back one refund token per year, even if you are down more than one. You can always check how many you have in the Store and read through the Player Support FAQ for more information about refund tokens. Bugfixes/QoL Changes LEAGUE CLIENT: "This skin is no longer available for purchase" tooltip no longer appears at the start of Champ Select LEAGUE CLIENT: Chat window no longer jumps to the left in Champ Select LEAGUE CLIENT: Social Panel - Hovercards once again correctly display a friend's game type and champion while they are in game We've standardized the icon that appears next to targets when their resistances have been shredded Renekton's death VO now properly plays in all languages 
+
+Sylas now properly gets credit for attacks landed when using Passive - Petricite Burst Yuumi's W - You and Me! now properly goes on cooldown when she is affected by charms or knock-ups The orb that Cosmic 
+
+Vladimir holds now properly reappears upon revival Nami's W - Ebb and Flow now properly grants allies with movement speed from Passive - Surging Tides Attacking a target multiple times as 
+
+Bard with Meeps from Passive - Traveler's Call will now properly reapply Imperial Mandate Elise's E - Rappel now properly increases the effects of her Passive - Spider Queen Knight's Vow's Sacrifice, Immortal Shieldbow's Lifeline, Night Harvester's Soulrend, Hextech Rocketbelt's Supersonic, and Lock of the Iron Solari's Devotion icons now properly display in the buff bar When 
+
+Jhin equips Guinsoo's Rageblade and Runaan's Hurricane, the bolts from his fourth shot will now properly deal normal damage Champions' health bars will now accurately reflect the shield health even after activating Bloodthirster's 
+
+Eclipse passive while another shield is active Fixed a bug where it was possible to reset the cooldown of another item if you swapped the location of it with a freshly activated Sheen in your inventory Abilities which empower a champion's basic attack will now properly trigger Mana Charge when hitting epic monsters Fixed a bug where Kayle's attack range would unintentionally increase after leveling up her R - Divine Judgement Corrected Kalista's E - Rend AD ratios to their proper values 
+
+Karthus can now properly trigger Horizon Focus with Q - Lay Waste Killing a target as 
+
+Kalista with Q - Pierce will now properly transfer all of the original target's E - Rend stacks to the next target 
+
+Kalista can no longer proc Electrocute or Phase Rush with two attacks (a basic attack or Q - Pierce , followed by E - Rend ). It will now properly proc after 3 separate attacks/abilities. Fixed many items' tooltips to match the actual in-game values in places like Match History, End of Game screen, etc. Shen's W - Spirit's Refuge no longer blocks all of Katarina's abilities that have an on-hit element. The spell portion of her damage should still be dealt to Shen. All Runaan's Hurricane bolts now properly apply damage from Ravenous Hydra's Cleave passive Fixed a bug where a player could cast Ashe's W - Volley while it's on cooldown if they level up it and cast it at the near same time White tiles no longer appear at Zed's feet while recalling or during his death animation Little Legends can now be saved through the Loadout Selector in ARAM, even if its the first game after unlocking the Little Legend Upcoming Skins & Chromas The following skins will be released in this patch. Battle Queen 
+
+Katarina Battle Queen 
+
+Diana Battle Queen 
+
+Qiyana Battle Queen Janna 
